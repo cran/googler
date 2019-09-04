@@ -1,0 +1,12 @@
+0ab1631f2ce14e2ecb7488686feafe52 *DESCRIPTION
+8b159977f05726d01480125f63afb831 *LICENSE
+2d52899357750f81a598b5148aef4f39 *NAMESPACE
+a464ee2b468989b7165ffc73dbbdd0fb *NEWS.md
+a7cd32771ca2bc6a69022d3f990ae3f2 *R/googler.R
+f820430d1d1f405c449467b7f76c6eb7 *R/path.R
+ee13f082d541fb9dbd58e38eb28740a6 *README.md
+230e67a1c0a7551b1adbd3b6dab73662 *man/figures/logo.png
+1817efb46d3ac27cfe59191d0e4d305f *man/googler.Rd
+bde5e09c989285aa44cf26a432222bce *man/googler_.Rd
+afd1b1d32094d62ebb06a68d23903baf *tests/testthat.R
+0889f491990411cccced6d9b0b0ec0e1 *tests/testthat/test-googler.R
